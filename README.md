@@ -21,11 +21,13 @@ Project Structure:
 
 2. TestPlan(OpenCart).pdf: This PDF is likely a Test Plan document for OpenCart, providing an overview of the testing strategy, objectives, scope, and schedule for testing the software.
 
-3. Test scenarios(OpenCart).xlsx: This Excel file likely contains test scenarios for OpenCart, which describe various situations and conditions that need to be tested to ensure the software functions correctly.
+3. TestScenarios(OpenCart).xlsx: This Excel file likely contains test scenarios for OpenCart, which describe various situations and conditions that need to be tested to ensure the software functions correctly.
 
-4. Web Registration Test Cases.xlsx: This Excel file probably contains a set of test cases specifically related to web registration functionality in OpenCart. It likely includes detailed steps, expected results, and test data.
+4. TestCases(OpenCart).xlsx: This Excel file probably contains a set of test cases specifically related to web registration functionality in OpenCart. It likely includes detailed steps, expected results, and test data.
 
-5. OpenCart-BugReport.xlsx: This Excel file is likely used for tracking and documenting software bugs and issues found during testing. It may include details such as bug descriptions, severity, status, and steps to reproduce.
+5. TestExecutions(OpenCart).xlsx: This Excel file probably contains a set of test executions specifically related to web registration functionality in OpenCart. It likely includes detailed steps, test data, expected results, actual results, priority, test results, and comments.
+
+6. BugReport(OpenCart).xlsx: This Excel file is likely used for tracking and documenting software bugs and issues found during testing. It may include details such as bug descriptions, severity, status, and steps to reproduce.
 
 
 Contributions:
