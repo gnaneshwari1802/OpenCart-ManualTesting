@@ -27,7 +27,9 @@ Project Structure:
 
 5. TestExecutions(OpenCart).xlsx: This Excel file probably contains a set of test executions specifically related to web registration functionality in OpenCart. It likely includes detailed steps, test data, expected results, actual results, priority, test results, and comments.
 
-6. BugReport(OpenCart).xlsx: This Excel file is likely used for tracking and documenting software bugs and issues found during testing. It may include details such as bug descriptions, severity, status, and steps to reproduce.
+6. RTM(Opencart).xlsx: This Excel file probably contains the Requirement Traceability Matrix document related to web registration functionality in OpenCart. It likely includes requirement ID, requirement description, test scenario ID and description, test cases, test result, defect ID, and also the summary report.
+   
+7. BugReport(OpenCart).xlsx: This Excel file is likely used for tracking and documenting software bugs and issues found during testing. It may include details such as bug descriptions, severity, status, and steps to reproduce.
 
 
 Contributions:
